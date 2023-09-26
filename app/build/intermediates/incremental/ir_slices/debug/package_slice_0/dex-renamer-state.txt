@@ -1,0 +1,4 @@
+#Wed Jul 03 17:01:16 BRT 2019
+base.0=C\:\\Users\\Douglas\\Desktop\\Komber\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

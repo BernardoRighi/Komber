@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">689690233066-6ro7rn66154vkdtm6j8b56pkk0k3ad1f.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://komber-bbc8f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">689690233066</string>
+    <string name="google_api_key" translatable="false">AIzaSyA0vwgAqIWJLz2lpaifdRcmE9mWmk7onBE</string>
+    <string name="google_app_id" translatable="false">1:689690233066:android:7cb8a04699e1c7c3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA0vwgAqIWJLz2lpaifdRcmE9mWmk7onBE</string>
+    <string name="google_storage_bucket" translatable="false">komber-bbc8f.appspot.com</string>
+    <string name="project_id" translatable="false">komber-bbc8f</string>
+</resources>

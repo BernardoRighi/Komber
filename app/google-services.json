@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "689690233066",
+    "firebase_url": "https://komber-bbc8f.firebaseio.com",
+    "project_id": "komber-bbc8f",
+    "storage_bucket": "komber-bbc8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689690233066:android:7cb8a04699e1c7c3",
+        "android_client_info": {
+          "package_name": "komber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689690233066-8uns1jme4p388gblh3rp3c2b0llugmbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "komber",
+            "certificate_hash": "1f65b140f885dd0e574fb12e94302f28d48835f7"
+          }
+        },
+        {
+          "client_id": "689690233066-6ro7rn66154vkdtm6j8b56pkk0k3ad1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0vwgAqIWJLz2lpaifdRcmE9mWmk7onBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689690233066-6ro7rn66154vkdtm6j8b56pkk0k3ad1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

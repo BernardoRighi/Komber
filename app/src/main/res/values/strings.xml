@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Komber</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_cadastro">Cadastrar uma conta</string>
+    <string name="title_login">Acessar minha conta</string>
+    <string name="tvEmail">E-mail</string>
+    <string name="tvSenha">Senha</string>
+    <string name="tvNome">Nome</string>
+    <string name="tvEmailCadastro">E-mail</string>
+    <string name="tvSenhaCadastro">Senha</string>
+    <string name="title_activity_passageiro">PassageiroActivity</string>
+    <string name="tvMeuLocal">Meu Local</string>
+    <string name="tvDestino">Digite seu destino</string>
+    <string name="title_activity_corrida">CorridaActivity</string>
+    <string name="tvAceitarcorrida">Aceitar Corrida</string>
+</resources>
